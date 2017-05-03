@@ -21,6 +21,7 @@ public class Person extends gitoverview{
 
     public void setLastName(String lastName) {
         this.lastName = lastName;
+        System.out.println("xx");
     }
 
     @Override
