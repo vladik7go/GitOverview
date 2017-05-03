@@ -25,7 +25,7 @@ public class Person extends gitoverview{
 
     @Override
     public String toString() {
-        return "Person{" +
+        return "PersonZZZZZZZZZZZZZZZ{" +
                 "firstName='" + firstName + '\'' +
                 ", lastName='" + lastName + '\'' +
                 '}';
